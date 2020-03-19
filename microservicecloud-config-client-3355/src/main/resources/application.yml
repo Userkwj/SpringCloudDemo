@@ -1,0 +1,6 @@
+#bootstrap.yml(是系统级配置文件,优先级最高)
+#application.yml(是用户级的资源配置项)
+
+spring:
+  application:
+    name: microservicecloud-config-client
